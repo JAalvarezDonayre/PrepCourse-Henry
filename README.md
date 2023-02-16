@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 de Heny
+Este es una preuba de como clonar desde mi escriotiro
